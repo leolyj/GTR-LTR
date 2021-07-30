@@ -1,6 +1,6 @@
 # Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation
 This is the code related to "Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation" (IEEE TIP 2021).
-![](./Pic_GTR.jpg)
+![](Pic_GTR.jpg)
 ## Paper 
 
 [Paper Link](https://ieeexplore.ieee.org/document/9489280)  
