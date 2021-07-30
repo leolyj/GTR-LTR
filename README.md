@@ -42,6 +42,6 @@ python3 tools/TR_BR.py
 ```
 
 ## Results
-We present several quantitative and qualitative results reported in our paper.
+We present several qualitative results reported in our paper.
 ![](./Pic_visual.jpg)
 
