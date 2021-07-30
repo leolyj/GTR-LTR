@@ -31,8 +31,8 @@ If you find it helpful to your research, please cite as follows:
 - Download [**GTA5 datasets**](https://download.visinf.tu-darmstadt.de/data/from_games/), in the experiments, we crop GTA5 images to 640X640.
 - Download [**SYNTHIA**](http://synthia-dataset.net/download/808/). We crop images to 640X640.
 - Download [**Cityscapes**](https://www.cityscapes-dataset.com/). We resize Cityscapes images to 1024x512. 
-- Download [**BDDS**](https://doc.bdd100k.com/download.html). 
-- Download [**Mapillary**](https://www.mapillary.com/datasets). 
+- Download [**BDDS**](https://doc.bdd100k.com/download.html). We resize BDDS images to 1024x512. 
+- Download [**Mapillary**](https://www.mapillary.com/datasets). We resize Mapillary images to 1024x512. 
 
 ## Usage
 Open the terminal and type the following command to pretrain the model on the source domain (GTA5).
