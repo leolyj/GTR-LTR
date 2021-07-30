@@ -2,7 +2,7 @@
 This is the code related to "Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation" (IEEE TIP 2021).
 
 <p align='center'>
-  <img src='Pic_GTR.jpg' width="600px">
+  <img src='Pic_GTR.jpg' width="800px">
 </p>
 
 
@@ -48,5 +48,9 @@ python3 tools/TR_BR.py
 
 ## Results
 We present several qualitative results reported in our paper.
-![](./Pic_visual.jpg)
+<p align='center'>
+  <img src='Pic_visual_1.jpg' width="800px">
+  <img src='Pic_visual_2.jpg' width="800px">
+  <img src='Pic_visual_3.jpg' width="800px">
+</p>
 
