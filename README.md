@@ -25,6 +25,7 @@ If you find it helpful to your research, please cite as follows:
 * Torchvision 0.9.0
 * Download [**Painter by Numbers**](https://www.kaggle.com/c/painter-by-numbers/) which are paintings for GTR.
 * You should transfer the raw source dataset into multiple-style datasets using the pre-trained style transfer network [AdaIN](https://github.com/xunhuang1995/AdaIN-style) and put the correct paths in line 685 of the python file (./tools/TR_BR.py )
+* Download [**the model**](http://vllab.ucmerced.edu/ytsai/CVPR18/DeepLab_resnet_pretrained_init-f81d91e8.pth) pretrained on ImageNet. Put it into each file named as  (pretianed_model).
 
 
 ## Datasets
@@ -39,3 +40,7 @@ Open the terminal and type the following command to pretrain the model on the so
 ```
 python3 tools/TR_BR.py
 ```
+
+## Results
+We present several quantitative and qualitative results reported in our paper.
+![](Pic_visual.jpg)
