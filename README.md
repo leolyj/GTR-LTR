@@ -8,8 +8,8 @@ This is the code related to "Global and Local Texture Randomization for Syntheti
 
 ## Paper 
 
-[Paper Link](https://ieeexplore.ieee.org/document/9489280)  
-IEEE Transactions on Image Processing (TIP 2021)
+[Global and Local Texture Randomization for Synthetic-to-Real Semantic Segmentation](https://ieeexplore.ieee.org/document/9489280)  
+**IEEE Transactions on Image Processing (TIP 2021)**
 
 If you find it helpful to your research, please cite as follows:
 
